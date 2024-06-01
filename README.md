@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Soumyadip Ghosh</h1>
 <h3 align="center">A passionate Frontend Developer from India</h3>
 
-- 👨‍💻 All of my projects are available at [https://ghoshsoumyadip.github.io/portfolio.github.io/](https://ghoshsoumyadip.github.io/portfolio.github.io/)
-
 - 📫 How to reach me **sdghosh1999@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
